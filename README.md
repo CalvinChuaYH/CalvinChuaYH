@@ -8,12 +8,11 @@
 ## About me
 Hi! I'm Calvin (Yue Heng), a final year Computer Science student.
 - :books: I’m currently expanding my knowledge on ...
-  - *NodeJS*
-  - *TypeScript*
-  - *C++*
+  - *LangChain/LangGraph*
+  - *MCP*
 - :relaxed: I’m looking to join new projects!
 - My hobbies include reading, running and going to the gym! I am also a bjj blue belt🥋!
-- 📫 Reach out to me at: <a href="calvinchuayh@gmail.com">calvinchuayh@gmail.com</a>
+- 📫 Reach out to me at: <a href="calvinchuayh@gmail.com">calvinchuayh@gmail.com</a> or at my  <a href="https://www.linkedin.com/in/chuayueheng/">LinkedIn</a>
 
 ## 💻 Skills
 
