@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://private-user-images.githubusercontent.com/126031516/455992824-1fd30f9e-5ba2-45f6-bb7c-2a54d2778c76.png?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3NTAxNjM0NTUsIm5iZiI6MTc1MDE2MzE1NSwicGF0aCI6Ii8xMjYwMzE1MTYvNDU1OTkyODI0LTFmZDMwZjllLTViYTItNDVmNi1iYjdjLTJhNTRkMjc3OGM3Ni5wbmc_WC1BbXotQWxnb3JpdGhtPUFXUzQtSE1BQy1TSEEyNTYmWC1BbXotQ3JlZGVudGlhbD1BS0lBVkNPRFlMU0E1M1BRSzRaQSUyRjIwMjUwNjE3JTJGdXMtZWFzdC0xJTJGczMlMkZhd3M0X3JlcXVlc3QmWC1BbXotRGF0ZT0yMDI1MDYxN1QxMjI1NTVaJlgtQW16LUV4cGlyZXM9MzAwJlgtQW16LVNpZ25hdHVyZT04MzJkMDhiNjFmNmNmNDZhZDE1YzNkOTU3NTM3N2ViOTllYTZmMmI5NDA3MzhiYzIyYjk5ZDRiN2EzOTYzYTA2JlgtQW16LVNpZ25lZEhlYWRlcnM9aG9zdCJ9._GiCJRvobxhV2o1pu3CRArFAHQdnVXWjz7VnnlInrUw" width="300" alt="Profile Picture" />
+  <img src="https://github.com/user-attachments/assets/ca5e8c0f-cb5f-4739-8610-b9d3936e99f2" width="300" alt="Profile Picture" />
   <br/>
   <br/>
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&pause=1000&width=435&lines=Hi!+I'm+Calvin+(Yue+Heng)!" alt="Typing SVG" />
