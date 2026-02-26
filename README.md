@@ -10,7 +10,8 @@ Hi! I'm Calvin (Yue Heng), a final year Computer Science student.
 - :books: I’m currently expanding my knowledge on ...
   - *LangChain/LangGraph*
   - *MCP*
-- :relaxed: I’m looking to join new projects!
+  - Agentic AI
+- :relaxed: I’m looking to join/contribute to open source projects
 - My hobbies include reading, running and going to the gym! I am also a bjj blue belt🥋!
 - 📫 Reach out to me at: <a href="calvinchuayh@gmail.com">calvinchuayh@gmail.com</a> or at my  <a href="https://www.linkedin.com/in/chuayueheng/">LinkedIn</a>
 
